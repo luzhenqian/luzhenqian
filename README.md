@@ -5,6 +5,7 @@
 - 📫 How to reach me? luzhenqian98@gmail.com
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luzhenqian&show_icons=true&theme=gotham" alt="noah lu" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzhenqian" alt="noah lu" /> </p>
 <p align="center"> <img src="https://leetcard.jacoblin.cool/NoahLu98?theme=light&font=Lora" alt="noah lu" /> </p>
 
 ### Things I use while coding!
