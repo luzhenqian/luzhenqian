@@ -2,6 +2,7 @@
 - 👀 I’m interested in creating the magical stuff 🖤
 - 🌱 I’m currently learning how use to ai 💻
 - 💞️ I’m looking to collaborate on startup projects and future technologies
+- 🔍 enjoys playing with new things every day
 - 📫 How to reach me? luzhenqian98@gmail.com
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luzhenqian&show_icons=true&theme=gotham" alt="noah lu" /> </p>
