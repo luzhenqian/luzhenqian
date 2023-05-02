@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me? luzhenqian98@gmail.com
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luzhenqian&show_icons=true&theme=gotham" alt="noah lu" />
-    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luzhenqian&show_icons=true&theme=gotham" alt="noah lu" /> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/NoahLu98?theme=light&font=Lora" alt="noah lu" /> </p>
+
 ### Things I use while coding!
 <p>
 	
@@ -128,7 +129,5 @@ ite)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/NoahLu98?theme=light&font=Lora)
 
 <a href="https://app.daily.dev/LuZhenqian"><img src="https://api.daily.dev/devcards/766321ab05d5474d8e35c9acf750251f.png?r=ih4" width="400" alt="LuZhenqian's Dev Card"/></a>
