@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahLu
-- 👀 I’m interested in creating the magical stuff with code and mac 🖤
+- 👀 I’m interested in creating the magical stuff 🖤
 - 🌱 I’m currently learning how use to ai 💻
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me? luzhenqian98@gmail.com
