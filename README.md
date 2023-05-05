@@ -223,4 +223,6 @@
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 	
-<a href="https://app.daily.dev/LuZhenqian"><img src="https://api.daily.dev/devcards/766321ab05d5474d8e35c9acf750251f.png?r=ih4" width="400" alt="LuZhenqian's Dev Card"/></a>
+<p align="center">
+	<a href="https://app.daily.dev/LuZhenqian"><img src="https://api.daily.dev/devcards/766321ab05d5474d8e35c9acf750251f.png?r=ih4" width="400" alt="LuZhenqian's Dev Card"/></a>
+</p>
