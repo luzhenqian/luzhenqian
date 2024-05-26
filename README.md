@@ -227,6 +227,3 @@
 
  [![Noah's GitHub | Languages Over Time](https://stats.quine.sh/Noah/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Noah)
  
-<p align="center">
-	<a href="https://app.daily.dev/LuZhenqian"><img src="https://api.daily.dev/devcards/766321ab05d5474d8e35c9acf750251f.png?r=ih4" width="400" alt="LuZhenqian's Dev Card"/></a>
-</p>
